@@ -16,9 +16,16 @@ main {
     padding: 35px 15px 15px;
 }
 
+.nft-card {
+    border-width: 2px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
 img.nft-card-img {
-    padding: 5%;
-    border-radius: 8%;
+}
+
+img.nft-card-img:hover {
+    filter: grayscale(100%);
 }
 
 form.login,
