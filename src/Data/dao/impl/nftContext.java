@@ -38,6 +38,7 @@ public class nftContext extends abstractConnect implements NftDao {
                 temp.setOwnerId(res.getInt("ownerId"));
                 temp.setPrice(res.getDouble("price"));
                 temp.setPicture(res.getString("picture"));
+                temp.setTitle(res.getString("title"));
                 result.add(temp);
             }
 

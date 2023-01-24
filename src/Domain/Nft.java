@@ -2,6 +2,7 @@ package Domain;
 
 public class Nft {
     private int id;
+    private String title;
     private int ownerId;
     private double price;
     private String picture;
@@ -44,5 +45,13 @@ public class Nft {
 
     public void setPicture(String picture) {
         this.picture = picture;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
     }
 }
