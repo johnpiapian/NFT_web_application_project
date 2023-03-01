@@ -1,6 +1,5 @@
 # NFT_web_project
-In this cybersecurity project, we are constructing a simulated NFT marketplace web app with intentionally implemented security vulnerabilities. The objective is to gain a thorough understanding of these vulnerabilities through hands-on experience by finding and fixing them in a CTF setting. Not only will you deepen your knowledge of cybersecurity, but you will also develop practical skills that will be useful in various real-world situations by participating in the project. This project is perfect for students, professionals, or anyone interested in enhancing their understanding of cybersecurity. So gear up for an exciting and enriching learning experience and best of luck!
-
+In this cybersecurity project, we are constructing a simulated NFT marketplace web app with intentionally implemented security vulnerabilities. The objective is to gain a thorough understanding of these vulnerabilities through hands-on experience by finding and fixing them in a CTF setting. The purpose of this project is to deepen cybersecurity knowledge and also develop practical skills that will be useful in various real-world situations by participating in the project.
 
 # Prerequisites
 ### Recommended IDE
